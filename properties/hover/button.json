@@ -1,0 +1,7 @@
+{
+  "hover": {
+    "button": {
+      "basic"     : { "value": "{hover.base.red.value}" }
+    }
+  }
+}

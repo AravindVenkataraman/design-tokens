@@ -1,0 +1,12 @@
+{
+  "hover": {
+    "base": {
+      "default": {
+        "value": "#dfdfdf"
+      },
+      "red": {
+        "value": "red"
+      }
+    }
+  }
+}

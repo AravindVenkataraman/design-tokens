@@ -1,0 +1,37 @@
+{
+  "color": {
+    "brand": {
+      "primary": {
+        "lighter": { "value": "{color.base.teal.100.value}" },
+        "light":   { "value": "{color.base.teal.300.value}" },
+        "base":    { "value": "{color.base.teal.500.value}" },
+        "dark":    { "value": "{color.base.teal.700.value}" },
+        "darker":  { "value": "{color.base.teal.900.value}" }
+      },
+
+      "secondary": {
+        "lighter": { "value": "{color.base.indigo.100.value}" },
+        "light":   { "value": "{color.base.indigo.300.value}" },
+        "base":    { "value": "{color.base.indigo.500.value}" },
+        "dark":    { "value": "{color.base.indigo.700.value}" },
+        "darker":  { "value": "{color.base.indigo.900.value}" }
+      }, 
+
+      "danger": {
+        "lighter": { "value": "{color.base.purple.100.value}" },
+        "light":   { "value": "{color.base.purple.300.value}" },
+        "base":    { "value": "{color.base.purple.500.value}" },
+        "dark":    { "value": "{color.base.purple.700.value}" },
+        "darker":  { "value": "{color.base.purple.900.value}" }
+      }, 
+
+      "plain": {
+        "lighter": { "value": "{color.base.blue.100.value}" },
+        "light":   { "value": "{color.base.blue.300.value}" },
+        "base":    { "value": "{color.base.blue.500.value}" },
+        "dark":    { "value": "{color.base.blue.700.value}" },
+        "darker":  { "value": "{color.base.blue.900.value}" }
+      }
+    }
+  }
+}
